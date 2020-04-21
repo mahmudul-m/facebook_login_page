@@ -1,0 +1,148 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.header{
+	background-color: #73208B;
+}
+.wrapper{
+	width: 72%;
+	margin:0 auto;
+	overflow: hidden;
+}
+.facebook{
+	width: 25%;
+	float: left;
+}
+.logo{
+	font-family: sans-serif;
+	font-size: 40px;
+	color: #ffffff;
+	margin:0;
+	padding: 25px 0 15px 0;
+}
+.form{
+   width: 45%;
+   float: right;
+   margin-top: 15px;
+}
+.email{
+	width: 40%;
+    float: left;  
+}
+.password{
+    width: 40%;
+    float: left;
+    margin: 0 0 10px 15px;
+}
+button{
+	background-color: #474DCF;
+	cursor: pointer;
+	color:#ffffff;
+	padding: 3px 5px;
+	border: 1px solid #203885;
+}
+.log{
+	width: 12%;
+	float: left;
+	margin: 22px 0 0 15px;
+}
+input {
+	margin-top: 3px;
+	padding: 3px;
+    border: 1px solid black; 
+}
+label{
+	color: #FFF5E5;
+}
+a{
+	padding-top: 5px;
+	color: #73ABD8;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+/*content start*/
+.content{
+	background-color: #EEF0F6;
+}
+/*content end*/
+/*Network start*/
+
+.network{
+	width: 48%;
+	overflow: hidden;
+	float: left;
+}
+h2{
+	color: #0E385F;
+}
+.network img{
+    float: right;
+}
+/*Network end*/
+/*Form1 start*/
+.form1{
+	width: 45%;
+	float: right;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 40px;
+	color: black;
+	margin:0;
+	padding:10px 0;
+}
+h3{
+	color:#323030;
+	margin: 0;
+	padding:0px 0 20px 0;
+}
+.fname{
+	font-size: 18px;
+	width: 43.5%;
+	padding: 12px;
+	border-radius: 8px;
+	border: 1px solid gray;
+    margin:10px 0 10px 0;
+}
+.mobile{
+	font-size: 18px;
+	width: 94%;
+	padding: 12px;
+	border-radius: 8px;
+	border: 1px solid gray;
+    margin:0 0 20px 0;
+}
+span{
+	font-size: 22px;
+	color: #909FC1;
+	margin-top:20px;
+}
+p{
+	color: gray;
+	font-size: 16px;
+}
+.button{
+	font-size: 20px;
+	padding: 8px 55px;
+	border-radius: 6px;
+	margin-bottom: 35px;
+	background-color: #669F51;
+}
+.create{
+	margin-bottom: 25px;
+}
+.span{
+	font-size: 18px;
+	color: gray;
+	margin-bottom: 15px;
+}
+
+/*Form1 end*/
+/*Language start*/
+.language{
+	margin-top: 60px;
+}
+/*Language end*/
